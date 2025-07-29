@@ -118,25 +118,25 @@ local guestaim = false
 
 local function initialize()
     local GUI = Rayfield:CreateWindow({
-		Name = "Project-Mystical",
+		Name = "Applesaken",
 		Theme = "Default",
-		LoadingTitle = "Mystic",
-		LoadingSubtitle = "i hope yall like this",
-		Icon = "",
-		Link = "",
+		LoadingTitle = "Apple Ware",
+		LoadingSubtitle = "can fart hub please collab already",
+		Icon = "apple",
+		Link = "https://github.com/SilkScripts/AppleStuff/get out of here",
 
 		DisableBuildWarnings = true,
 		DisableRayfieldPrompts = true,
 
-		KeySystem = true,
+		KeySystem = false,
 		KeySettings = {
-			Title = "Project Mystical Key or sum",
-			Subtitle = "I hope me and melidon did a good job",
-			Note = "Join Discord Server To Get Key | https://discord.gg/3h4kjMfr",
-			FileName = "Projectmysticalthing",
+			Title = "Appleware Key or sum",
+			Subtitle = "FART HUB PLEASE COLLABBB",
+			Note = "Join Discord Server To Get Key | https://discord.gg/fGFV3r9yKC",
+			FileName = "Applewarething",
 			SaveKey = true,
 			GrabKeyFromSite = false,
-			Key = {"Progress2736474737733637637373836483648363733746846484648463736386484648464846484684737373^#7#6#*#^@*@93&3(74&$*$7$,$73^#(#7#*&2*@^#&#$*$73(26397393^#9#6$9$&93&3(#&3&4"}, 
+			Key = {"Apple"}, 
 		},
 	})
     
